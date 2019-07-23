@@ -1,0 +1,27 @@
+
+h7 {color: #7E685A; font-size: 19px}
+h6 {color: #7E685A; font-size: 16px}
+h5 {color: #7E685A; font-size: 12px}
+h4 {color: #669900; font-size: 20px}
+h3 {color: #7E685A; font-size: 16px}
+h2 {color: #C2CAD0; font-size: 50px}
+h1 {color: #E7717D; font-size: 35px}
+
+
+a:link, a:visited {
+  background-color: #e0e0d2;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+
+body {background-color: #eaeae1}
